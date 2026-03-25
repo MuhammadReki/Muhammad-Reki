@@ -19,6 +19,8 @@ Saya adalah pribadi yang cenderung pendiam dan introvert, lebih nyaman dengan me
 ## ⚙️ Keahlian dan Teknologi
 [![My Skills](https://skillicons.dev/icons?i=arduino,blender,bootstrap,discord,figma,firebase,git,github,ubuntu,unity,vscode,windows)](https://skillicons.dev)
 
+<div align="center">
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -38,14 +40,22 @@ Saya adalah pribadi yang cenderung pendiam dan introvert, lebih nyaman dengan me
 <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
+</div>
+
 
 ## 📫 Contact with me
+<div align="center">
+
 ![https://instagram.com/mreki_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  
 ![https://www.tiktok.com/in/minang.coding](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![https://www.gmail.com/in/mreki](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+<div align="center">
 
 ##### My Github Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadReki&show_icons=true&theme=radical)](https://github.com/MuhammadReki/Muhammad-Reki.github.io)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadReki&show_icons=true&theme=outrun)](https://github.com/MuhammadReki/Muhammad-Reki.github.io)
+
+##### Play Game With Me
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ⭐ Terima kasih sudah berkunjung ke profil GitHub saya
