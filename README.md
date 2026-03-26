@@ -7,10 +7,16 @@
 💻 Web Developer (Frontend & Backend)  
 🚀 Fokus mengembangkan aplikasi web yang interaktif, modern, scalable  
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<!-- Banner -->
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px;">
+  
+  <!-- GIF utama baru -->
+  <img height="150" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" alt="Banner GIF" />
+  
 
+  <!-- GIF Skills tambahan -->
+  <img height="150" src="img/Skills_Animation_White.gif" alt="Skills Animation" />
+</div>
 
 
 ## 🧑‍💻 Tentang Saya
