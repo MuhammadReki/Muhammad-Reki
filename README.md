@@ -110,8 +110,11 @@ Saya adalah pribadi yang cenderung pendiam dan introvert, lebih nyaman dengan me
 
 ---
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-trophies.vercel.app/?username=MuhammadReki)
+<h2 align="center">🏆 GitHub Trophies</h2>
 
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=MuhammadReki" />
+</p>
 ## 📊 GitHub Statistics
 
 <div align="center">
