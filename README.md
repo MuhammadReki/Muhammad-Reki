@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](img/bannerreki11.png)
+![Banner](img/BannerRekiFix.png)
 
 # 👋 Halo, Kenalin Gw Reki
 
