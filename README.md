@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](img/ppgithubreki.png)
+![Banner](img/bannerreki.png)
 
 # 👋 Halo, Kenalin Gw Reki
 
@@ -109,18 +109,16 @@ Saya adalah pribadi yang cenderung pendiam dan introvert, lebih nyaman dengan me
 </div>
 
 ---
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-trophies.vercel.app/?username=MuhammadReki)
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadReki&show_icons=true&theme=outrun)](https://github.com/MuhammadReki)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadReki&theme=outrun)](https://git.io/streak-stats)
 
-
 </div>
-
 
 
 ## 📫 Contact with me
